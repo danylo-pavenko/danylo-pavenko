@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile 👋
 - 😁 My name is Danylo Pavenko, pronounce like [da-ni-lo].
-- 💻 I'm Software Developer since 2013, use daily: `*.kt, *.xml, *.java, *.ts`.
-- ⚡ I love Kotlin/Java and develop for Android (sometimes iOS) and for a Backend with Ktor, NodeJS (NestJS, ExpressJS), latest time develop Smart-Contract with Solidity for EVM blockchains.
+- 💻 I'm Fullstack Software Developer and Solution Architector since 2013, use daily: `*.kt, *.xml, *.java, *.ts, `.
+- ⚡ I love Kotlin/Java and develop for Android (sometimes iOS on Swift) and for a Backend with Ktor, NodeJS (NestJS, ExpressJS), latest time develop Smart-Contract with Solidity for EVM blockchains.
 
 ### 📡 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danylopavenko-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylopavenko/)
@@ -50,12 +50,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on IT Outsource, Outstuffing agency.
+- 🌱 I’m currently learning how to build strong business process and scale up SaaS products.
+- 👯 I’m looking to collaborate on IT Recrutment, IT Outsourcing.
+- 🤔 I’m looking for help with setup develoment department, team or workflow of software development.
+- 💬 Ask me about how to delivery my idea to production.
+- 📫 How to reach me: [Telegram](https://t.me/danylopavenko).
+- ⚡ Fun fact: My hobby thats fly on Tecnam P2002JF as a student-pilot in the pilot club.
 -->
