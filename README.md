@@ -1,7 +1,25 @@
-## Welcome to my GitHub Profile 👋
-- 😁 My name is Danylo Pavenko, pronounce like [da-ni-lo].
-- 💻 I'm Fullstack Software Developer and Solution Architector since 2013, use daily: `*.kt, *.xml, *.java, *.ts, `.
-- ⚡ I love Kotlin/Java and develop for Android (sometimes iOS on Swift) and for a Backend with Ktor, NodeJS (NestJS, ExpressJS), latest time develop Smart-Contract with Solidity for EVM blockchains.
+## Welcome to my GitHub 👋  
+
+Hey! I’m **Danylo Pavenko** (pronounced *da-ni-lo*).  
+
+I’m not just a developer who writes code and waits for tasks.  
+I’m a **Product Engineer** — someone who can take an idea from *“does this even make sense?”* to a measurable, working product.
+
+### What that actually means:
+- 💡 I help **validate product hypotheses**, not just implement features  
+- 📊 I think in **metrics, funnels, and outcomes**, not only tickets  
+- 🧠 I have a **business mindset** and understand why something is being built  
+- 🧑‍🤝‍🧑 If needed, I can **hire and scale a team**, set processes, and own delivery  
+- 📈 I measure results and iterate — code is a tool, not the goal
+
+### Tech-wise:
+- 💻 Fullstack Engineer & Solution Architect (since **2013**)  
+- ❤️ Strong focus on **Kotlin / Java** (Android is my home turf)  
+- 🔧 Backend: **Ktor**, **Node.js** (NestJS, Express)  
+- 📱 Mobile: Android daily, sometimes **iOS (Swift)**  
+- ⛓️ Recently working with **Solidity** and EVM smart contracts  
+
+If you’re looking for someone who can **build, validate, ship, and improve a product** — not just “close tasks” — you’re in the right place.
 
 ### 📡 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danylopavenko-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylopavenko/)
